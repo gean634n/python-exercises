@@ -15,7 +15,7 @@
 2. Clone este repositório
 
 ```bash
-git clone 
+git clone git@github.com:gean634n/python-exercises.git
 ```
 
 3. Entre na pasta gerada
